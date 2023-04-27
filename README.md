@@ -1,1 +1,1 @@
-# Linear-Regression-with-one-variable
+# Linear regression with single variable to predict profits

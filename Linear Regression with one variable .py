@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # read date from file
-path = 'D:\Eng_samar\materials\AI\Python\data1.txt'
+path = 'data1.txt'
 data = pd.read_csv(path, header=None, names=['Population', 'Profit'])
 
 
